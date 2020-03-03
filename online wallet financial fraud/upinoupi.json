@@ -1,0 +1,146 @@
+[
+  {
+    "post": "Nooo",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I never send money to someone who is not in my contacts",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "yess",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "affirmative",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I gave my UPI PIN to someone",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I approved a request from an unknown UPI ID",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "Naaaa",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I told the UPI PIN",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I did not approve any request from any unverified user",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "No",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "yes",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I approved a payment request from an unknown number",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I surely did not",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I approved a payment request from an unverified user",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I did not share the UPI PIN",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I rejected payment request",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I accepted payment request from a number which was not in my contacts",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I did not disclose my UPI PIN to anyone",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "No Way",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "yeah",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I sure did",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "Nah",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I did not",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "Naa",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I didn�t",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I did not do that",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "Negative",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I shared the UPI PIN",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I definitely did not share the UPI PIN",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I approved a request from an unverified user",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I definitely shared the UPI PIN",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I rejected payment request from unverified contacts",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I accepted payment request",
+    "intent": "upi_fraud"
+  },
+  {
+    "post": "I didn't wanna share it",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I did not accept the payment request",
+    "intent": "upi_no_fraud"
+  },
+  {
+    "post": "I approved a request to an unknown number",
+    "intent": "upi_fraud"
+  }
+]

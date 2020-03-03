@@ -1,0 +1,38 @@
+post,intent
+I lost money using Google Pay,wallet_fraud
+I lost money using BHIM,wallet_fraud
+I lost money using PhonePe,wallet_fraud
+I lost money using PayTM,wallet_fraud
+I lost money using Amazon Pay,wallet_fraud
+I lost money using Apple Pay,wallet_fraud
+I got a request to send money on a e-wallet but I did not approve it ,not_wallet_fraud
+I got a request from an unverified user and I approved the request,wallet_fraud
+I got a request from an unknown number,wallet_fraud
+I got a call from an unknown number to approve payment request,wallet_fraud
+I mistakenly approved a spam payment request,wallet_fraud
+I did not approve a spam payment request,not_wallet_fraud
+by mistake I sent the incorrect amount through google Pay,not_wallet_fraud
+how can I get my money back if I added an extra 0 by mistake,not_wallet_fraud
+how can I get my money back if I added an extra zero by mistake,not_wallet_fraud
+spam calls come to me for approving payment requests but I deny,not_wallet_fraud
+can I get money if I sent the incorrect amount,not_wallet_fraud
+I almost sent the incorrect amount ,not_wallet_fraud
+I made an error while entering the amount,not_wallet_fraud
+I made error in judgment while approving the payment request,wallet_fraud
+I dropped my wallet somewhere,not_wallet_fraud
+I gave extra money to beggar,not_wallet_fraud
+donated extra money ,not_wallet_fraud
+donated extra money in the temple donation box,not_wallet_fraud
+I sent money to a different UPI Id,wallet_fraud
+I sent money to unknown UPI Id,wallet_fraud
+I sent money to incorrect UPI ID,wallet_fraud
+I sent money to an unknow UPI ID which requested for money,wallet_fraud
+"I sent the money to a friend , he refuses to return ",not_wallet_fraud
+I sent money to a girl but she stopped talking to me,wallet_fraud
+I approved gift money request from a girl,wallet_fraud
+i entered UPI pin for money request which I did not want to send money to,wallet_fraud
+I paid money through google pay in a shop but he refused acknowledgment,wallet_fraud
+I paid money but he said I did not receive the money,wallet_fraud
+"I paid the money but he says he did not get the money , am I scammed ",not_wallet_fraud
+money is debited but the receiver says otherwise,not_wallet_fraud
+amount is remitted but the beneficiary declines,wallet_fraud

@@ -1,0 +1,162 @@
+[
+  {
+    "post": "affirmative",
+    "intent": "yes"
+  },
+  {
+    "post": "certainly",
+    "intent": "yes"
+  },
+  {
+    "post": "I agreed to share",
+    "intent": "no"
+  },
+  {
+    "post": "I declined",
+    "intent": "no"
+  },
+  {
+    "post": "I did not",
+    "intent": "no"
+  },
+  {
+    "post": "I did not agree to share",
+    "intent": "no"
+  },
+  {
+    "post": "I didn't",
+    "intent": "no"
+  },
+  {
+    "post": "I guess I did",
+    "intent": "yes"
+  },
+  {
+    "post": "I guess I did not",
+    "intent": "no"
+  },
+  {
+    "post": "I guess I did yeah",
+    "intent": "yes"
+  },
+  {
+    "post": "I guess I didn't",
+    "intent": "no"
+  },
+  {
+    "post": "I guess I shared it",
+    "intent": "yes"
+  },
+  {
+    "post": "I guess not",
+    "intent": "no"
+  },
+  {
+    "post": "I guess yeah",
+    "intent": "yes"
+  },
+  {
+    "post": "I guess yep",
+    "intent": "yes"
+  },
+  {
+    "post": "I hope not",
+    "intent": "no"
+  },
+  {
+    "post": "I sure did",
+    "intent": "yes"
+  },
+  {
+    "post": "naa",
+    "intent": "no"
+  },
+  {
+    "post": "naah",
+    "intent": "no"
+  },
+  {
+    "post": "nah",
+    "intent": "no"
+  },
+  {
+    "post": "never",
+    "intent": "no"
+  },
+  {
+    "post": "no",
+    "intent": "no"
+  },
+  {
+    "post": "no I did not",
+    "intent": "no"
+  },
+  {
+    "post": "No I didn't",
+    "intent": "no"
+  },
+  {
+    "post": "no way",
+    "intent": "no"
+  },
+  {
+    "post": "noo",
+    "intent": "no"
+  },
+  {
+    "post": "nooo",
+    "intent": "no"
+  },
+  {
+    "post": "nope",
+    "intent": "no"
+  },
+  {
+    "post": "yeaahh",
+    "intent": "yes"
+  },
+  {
+    "post": "yeah",
+    "intent": "yes"
+  },
+  {
+    "post": "yep",
+    "intent": "yes"
+  },
+  {
+    "post": "yepp",
+    "intent": "yes"
+  },
+  {
+    "post": "yes",
+    "intent": "yes"
+  },
+  {
+    "post": "yes I did",
+    "intent": "yes"
+  },
+  {
+    "post": "yes I did certainly",
+    "intent": "yes"
+  },
+  {
+    "post": "yess",
+    "intent": "yes"
+  },
+  {
+    "post": "yesss",
+    "intent": "yes"
+  },
+  {
+    "post": "you are right",
+    "intent": "yes"
+  },
+  {
+    "post": "you are wrong",
+    "intent": "no"
+  },
+  {
+    "post": "you're right",
+    "intent": "yes"
+  }
+]

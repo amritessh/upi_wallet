@@ -1,0 +1,41 @@
+post,intent
+affirmative,yes 
+certainly,yes 
+I agreed to share,no
+I declined,no
+I did not,no
+I did not agree to share,no
+I didn’t ,no
+I guess I did,yes 
+I guess I did not ,no
+I guess I did yeah,yes 
+I guess I didn’t ,no
+I guess I shared it,yes 
+I guess not,no
+I guess yeah,yes 
+I guess yep,yes 
+I hope not ,no
+I sure did,yes 
+naa,no
+naah,no
+nah,no
+never,no
+no,no
+no I did not,no
+No I didn’t ,no
+no way,no
+noo,no
+nooo,no
+nope,no
+yeaahh,yes 
+yeah,yes 
+yep,yes 
+yepp,yes 
+yes,yes 
+yes I did,yes 
+yes I did certainly,yes 
+yess,yes 
+yesss,yes 
+you are right,yes 
+you are wrong,no
+you're right,yes 

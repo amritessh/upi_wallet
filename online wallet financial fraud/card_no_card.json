@@ -1,0 +1,154 @@
+[
+ {
+   "post": "money debited from debit card",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "money debited from credit card ",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "money debited from bank account",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I shared my CVV",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I shared OTP",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I shared login details of internet banking ",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I shared PIN of my card",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "someone called and asked for OTP and I told",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "SOMEONE called and asked for CVV Number and I told",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "someone called and asked for card number , PIN and Expiry date",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "my bank called and asked for Debit Card Number , PIN , CVV , Expiry date and OTP",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "someone from bank called and asked for credit card number PIN , CVV , Expiry date , Name on Card and OTP and I told them the information",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I shared all the card details with the customer care executive of the bank",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "people from the bank called and asked for Card Number but I did not disclose",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "Officer called from RBI saying if I did not disclose the card information , my bank account will be closed ",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "Officer called from RBI saying if I did not disclose the card information , my bank account will be closed but I did not share",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "Officer  from bank asked to tell personal account information",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "I shared my password of internet banking",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I lost my password for internet banking ",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "I lost my credit card",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "I lost my debit card",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "I forgot my PIN of debit card",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "I forgot PIN of my credit card",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "I forgot password of my Internet Banking account",
+   "intent": "no_card_fraud"
+ },
+ {
+   "post": "bank called and asked for PIN of my debit card",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "bank called and asked for CVV number of my debit card",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "bank called and asked for OTP which I just received",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "bank called and asked for Name on my debit card and I told",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "bank called and asked for PIN of my credit card ",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "bank called and asked for CVV number of my credit card ",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "bank called and asked for OTP which I just received for transaction through credit card",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "money debited from debit card without my knowledge",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "huge purchase made using credit card and I did not use it",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "purchase made using debit card and I was completely unaware of it",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I got SMS stating that my credit card was used for a purchase of worth 20000 but I have not purchased anything",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I received a call from my bank asking for security verification and I shared my card details for verification",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I shared my banking details over the phone",
+   "intent": "card_fraud"
+ },
+ {
+   "post": "I did not share my banking details over the phone",
+   "intent": "no_card_fraud"
+ }
+]

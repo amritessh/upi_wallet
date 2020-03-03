@@ -1,0 +1,39 @@
+post,intent
+money debited from debit card,card_fraud
+money debited from credit card ,card_fraud
+money debited from bank account,card_fraud
+I shared my CVV,card_fraud
+I shared OTP,card_fraud
+I shared login details of internet banking ,card_fraud
+I shared PIN of my card,card_fraud
+someone called and asked for OTP and I told,card_fraud
+SOMEONE called and asked for CVV Number and I told,card_fraud
+"someone called and asked for card number , PIN and Expiry date",no_card_fraud
+"my bank called and asked for Debit Card Number , PIN , CVV , Expiry date and OTP",card_fraud
+"someone from bank called and asked for credit card number PIN , CVV , Expiry date , Name on Card and OTP and I told them the information",card_fraud
+I shared all the card details with the customer care executive of the bank,card_fraud
+people from the bank called and asked for Card Number but I did not disclose,no_card_fraud
+"Officer called from RBI saying if I did not disclose the card information , my bank account will be closed ",no_card_fraud
+"Officer called from RBI saying if I did not disclose the card information , my bank account will be closed but I did not share",no_card_fraud
+Officer  from bank asked to tell personal account information,no_card_fraud
+I shared my password of internet banking,card_fraud
+I lost my password for internet banking ,no_card_fraud
+I lost my credit card,no_card_fraud
+I lost my debit card,no_card_fraud
+I forgot my PIN of debit card,no_card_fraud
+I forgot PIN of my credit card,no_card_fraud
+I forgot password of my Internet Banking account,no_card_fraud
+bank called and asked for PIN of my debit card,card_fraud
+bank called and asked for CVV number of my debit card,card_fraud
+bank called and asked for OTP which I just received,card_fraud
+bank called and asked for Name on my debit card and I told,card_fraud
+bank called and asked for PIN of my credit card ,card_fraud
+bank called and asked for CVV number of my credit card ,card_fraud
+bank called and asked for OTP which I just received for transaction through credit card,card_fraud
+money debited from debit card without my knowledge,card_fraud
+huge purchase made using credit card and I did not use it,card_fraud
+purchase made using debit card and I was completely unaware of it,card_fraud
+I got SMS stating that my credit card was used for a purchase of worth 20000 but I have not purchased anything,card_fraud
+I received a call from my bank asking for security verification and I shared my card details for verification,card_fraud
+I shared my banking details over the phone,card_fraud
+I did not share my banking details over the phone,no_card_fraud

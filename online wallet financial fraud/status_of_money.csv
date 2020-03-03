@@ -1,0 +1,75 @@
+post,intent
+yes I gave the OTP,money_lost
+no I did not give OTP,money_safe
+yes I did give the CVV,money_lost
+did not give CVV,money_safe
+no money debited,money_safe
+not given,money_safe
+they took my money,money_lost
+he took my money,money_lost
+yeah I sent the CVV,money_lost
+I did not do the information exchange,money_safe
+no amount sent,money_safe
+no money transaction done,money_safe
+sure I did,money_lost
+yes I transferred money,money_lost
+I refused,money_safe
+given,money_lost
+they took money then only,money_lost
+I did not agree to send money,money_safe
+hmm,money_lost
+no money transferred,money_safe
+I was about to but I did not send,money_safe
+I did not agree to transfer the amount,money_safe
+gave then itself,money_lost
+money is safe,money_safe
+no way,money_safe
+no money sent,money_safe
+money was not debited,money_safe
+yes I have transferred it,money_lost
+I luckily didn't send,money_safe
+sent,money_lost
+yo,money_lost
+no no,money_safe
+nah,money_safe
+I am glad I didn't do that,money_safe
+no I didn't give,money_safe
+no I didn't send it,money_safe
+no,money_safe
+already sent,money_lost
+transferred ,money_lost
+he asked but I refused to send money,money_safe
+I did not transfer any money,money_safe
+yes,money_lost
+I think I sent money,money_lost
+yes I have transferred,money_lost
+ya,money_lost
+I did not send,money_safe
+sent immediately,money_lost
+I refused to send,money_safe
+he asked money and I gave,money_lost
+yes I gave the money,money_lost
+yeah I did,money_lost
+no I did not transfer,money_safe
+yess,money_lost
+I gave ,money_lost
+yes I did,money_lost
+sent long back,money_lost
+yeah,money_lost
+yes I sent the money,money_lost
+we did not send money,money_safe
+I refused to credit to his account,money_safe
+I refused to share the PIN,money_safe
+I shared the PIN,money_lost
+I shared the OTP ,money_lost
+I shared the credit card details,money_lost
+I shared the debit card details,money_lost
+I approved the payment request on my UPI app,money_lost
+I did not approve payment request on my UPI app,money_safe
+I approved the payment request on Google Pay,money_lost
+I approved the payment request on BHIM,money_lost
+I approved the payment request on PhonePe,money_lost
+I did not approve payment request on my UPI app,money_safe
+I did not approve payment request on Google Pay,money_safe
+I did not approve payment request on PhonePe,money_safe
+I did not approve payment request on BHIM,money_safe

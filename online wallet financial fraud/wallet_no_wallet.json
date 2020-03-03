@@ -1,0 +1,150 @@
+[
+  {
+    "post": "I lost money using Google Pay",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I lost money using BHIM",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I lost money using PhonePe",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I lost money using PayTM",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I lost money using Amazon Pay",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I lost money using Apple Pay",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I got a request to send money on a e-wallet but I did not approve it",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "I got a request from an unverified user and I approved the request",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I got a request from an unknown number",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I got a call from an unknown number to approve payment request",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I mistakenly approved a spam payment request",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I did not approve a spam payment request",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "by mistake I sent the incorrect amount through google Pay",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "how can I get my money back if I added an extra 0 by mistake",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "how can I get my money back if I added an extra zero by mistake",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "spam calls come to me for approving payment requests but I deny",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "can I get money if I sent the incorrect amount",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "I almost sent the incorrect amount",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "I made an error while entering the amount",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "I made error in judgment while approving the payment request",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I dropped my wallet somewhere",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "I gave extra money to beggar",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "donated extra money",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "donated extra money in the temple donation box",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "I sent money to a different UPI Id",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I sent money to unknown UPI Id",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I sent money to incorrect UPI ID",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I sent money to an unknow UPI ID which requested for money",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I sent the money to a friend , he refuses to return",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "I sent money to a girl but she stopped talking to me",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I approved gift money request from a girl",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "i entered UPI pin for money request which I did not want to send money to",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I paid money through google pay in a shop but he refused acknowledgment",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I paid money but he said I did not receive the money",
+    "intent": "wallet_fraud"
+  },
+  {
+    "post": "I paid the money but he says he did not get the money , am I scammed",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "money is debited but the receiver says otherwise",
+    "intent": "not_wallet_fraud"
+  },
+  {
+    "post": "amount is remitted but the beneficiary declines",
+    "intent": "wallet_fraud"
+  }
+]

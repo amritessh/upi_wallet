@@ -1,0 +1,37 @@
+post,intent
+Nooo,upi_no_fraud
+I never send money to someone who is not in my contacts,upi_no_fraud
+yess,upi_fraud
+affirmative,upi_fraud
+I gave my UPI PIN to someone,upi_fraud
+I approved a request from an unknown UPI ID,upi_fraud
+Naaaa,upi_no_fraud
+I told the UPI PIN,upi_fraud
+I did not approve any request from any unverified user ,upi_no_fraud
+No,upi_no_fraud
+yes,upi_fraud
+I approved a payment request from an unknown number ,upi_fraud
+I surely did not ,upi_no_fraud
+I approved a payment request from an unverified user,upi_fraud
+I did not share the UPI PIN,upi_no_fraud
+I rejected payment request,upi_no_fraud
+I accepted payment request from a number which was not in my contacts ,upi_fraud
+I did not disclose my UPI PIN to anyone,upi_no_fraud
+No Way,upi_no_fraud
+yeah,upi_fraud
+I sure did,upi_fraud
+Nah,upi_no_fraud
+I did not,upi_no_fraud
+Naa,upi_no_fraud
+I didn’t ,upi_no_fraud
+I did not do that,upi_no_fraud
+Negative,upi_no_fraud
+I shared the UPI PIN,upi_fraud
+I definitely did not share the UPI PIN,upi_no_fraud
+I approved a request from an unverified user,upi_fraud
+I definitely shared the UPI PIN,upi_fraud
+I rejected payment request from unverified contacts,upi_no_fraud
+I accepted payment request,upi_fraud
+I didn’t wanna share it,upi_no_fraud
+I did not accept the payment request ,upi_no_fraud
+I approved a request to an unknown number,upi_fraud
